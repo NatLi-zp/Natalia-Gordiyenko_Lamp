@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../my project 2"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "070624_Figma_Светильники"
+	}
+}
